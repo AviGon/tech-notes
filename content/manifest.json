@@ -11,14 +11,14 @@
       "id": "os",
       "title": "Operating Systems",
       "emoji": "🖥️",
-      "status": "soon",
+      "status": "active",
       "topics": []
     },
     {
       "id": "oop",
       "title": "OOP Concepts",
       "emoji": "🧩",
-      "status": "soon",
+      "status": "active",
       "topics": []
     }
   ]
