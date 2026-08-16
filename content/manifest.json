@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "guide",
+      "title": "Guide",
+      "emoji": "📖",
+      "status": "active",
+      "topics": [
+        { "id": "how-to-add-notes", "title": "How This Site Works", "file": "content/guide/how-to-add-notes.md" }
+      ]
+    },
+    {
+      "id": "ml",
+      "title": "Machine Learning",
+      "emoji": "🧠",
+      "status": "active",
+      "topics": []
+    },
+    {
+      "id": "os",
+      "title": "Operating Systems",
+      "emoji": "🖥️",
+      "status": "soon",
+      "topics": []
+    },
+    {
+      "id": "oop",
+      "title": "OOP Concepts",
+      "emoji": "🧩",
+      "status": "soon",
+      "topics": []
+    }
+  ]
+}
